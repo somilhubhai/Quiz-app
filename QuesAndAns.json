@@ -1,0 +1,99 @@
+{
+  "quiz": {
+    "question1": {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Paris"
+    },
+    "question2": {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    "question3": {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "Mark Twain",
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway"
+      ],
+      "answer": "Harper Lee"
+    },
+    "question4": {
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "answer": "Pacific Ocean"
+    },
+    "question5": {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Pb", "Fe"],
+      "answer": "Au"
+    },
+    "question6": {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2"
+    },
+    "question7": {
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Claude Monet"
+      ],
+      "answer": "Leonardo da Vinci"
+    },
+    "question8": {
+      "question": "Which element has the atomic number 1?",
+      "options": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
+      "answer": "Hydrogen"
+    },
+    "question9": {
+      "question": "What is the capital city of Japan?",
+      "options": ["Seoul", "Beijing", "Bangkok", "Tokyo"],
+      "answer": "Tokyo"
+    },
+    "question10": {
+      "question": "In which year did the Titanic sink?",
+      "options": ["1912", "1915", "1920", "1925"],
+      "answer": "1912"
+    },
+    "question11": {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "answer": "Diamond"
+    },
+    "question12": {
+      "question": "Who developed the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Nikola Tesla"
+      ],
+      "answer": "Albert Einstein"
+    },
+    "question13": {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "South Korea", "Japan", "Thailand"],
+      "answer": "Japan"
+    },
+    "question14": {
+      "question": "Which organ is responsible for pumping blood throughout the human body?",
+      "options": ["Lungs", "Brain", "Liver", "Heart"],
+      "answer": "Heart"
+    },
+    "question15": {
+      "question": "What is the main ingredient in guacamole?",
+      "options": ["Tomato", "Cucumber", "Avocado", "Pepper"],
+      "answer": "Avocado"
+    }
+  }
+}
